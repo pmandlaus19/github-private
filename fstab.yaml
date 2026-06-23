@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/your-user-name/your-repo-name/main/docs
+    url: https://shrill-frog-94e6.sudhanshu1996monga9741.workers.dev/github/github.com/pmandlaus19/github-private/main/docs
     type: markup
 
