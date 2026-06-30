@@ -1,1 +1,1 @@
-export default [{"displayName":"testgitlab","url":"contents/testgitlab"}]
+export default [{"displayName":"testgit","url":"contents/testgit"},{"displayName":"testgit_1","url":"contents/testgit-1"}]
