@@ -1,5 +1,5 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"testgit_2","url":"contents/testgit-2"},{"displayName":"testgit","url":"contents/testgit"},{"displayName":"testgit_1","url":"contents/testgit-1"}]
+const treeData = [{"displayName":"testgit_3","url":"contents/testgit-3"},{"displayName":"testgit_2","url":"contents/testgit-2"},{"displayName":"testgit","url":"contents/testgit"},{"displayName":"testgit_1","url":"contents/testgit-1"}]
 const mapTitle = "MAP"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
