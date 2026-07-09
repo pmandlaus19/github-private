@@ -1,0 +1,6 @@
+parameter_name,type,default_value,description
+apiKey,string,none,Authentication key required for all API requests
+timeout,integer,30,Request timeout in seconds
+retryCount,integer,3,Number of automatic retries on failure
+platform,enum,windows,Target platform (windows | mac | linux)
+verbose,boolean,false,Enables verbose logging output
