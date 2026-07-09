@@ -1,1 +1,1 @@
-export default [{"displayName":"testgit_3","url":"contents/testgit-3"},{"displayName":"testgit_2","url":"contents/testgit-2"},{"displayName":"testgit","url":"contents/testgit"},{"displayName":"testgit_1","url":"contents/testgit-1"}]
+export default [{"displayName":"c_overview","url":"contents/content/concepts/c-overview"},{"displayName":"t_installation","url":"contents/content/tasks/t-installation"},{"displayName":"r_api_parameters","url":"contents/content/references/r-api-parameters"},{"displayName":"g_terms","url":"contents/content/glossary/g-terms"}]
