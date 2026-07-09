@@ -1,6 +1,6 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"c_overview","url":"contents/content/concepts/c-overview"},{"displayName":"t_installation","url":"contents/content/tasks/t-installation"},{"displayName":"r_api_parameters","url":"contents/content/references/r-api-parameters"},{"displayName":"g_terms","url":"contents/content/glossary/g-terms"}]
-const mapTitle = "Sample Multimedia and File Types Map"
+const treeData = [{"displayName":"test_topic","url":"contents/test-topic"}]
+const mapTitle = "testMap"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
 function expandHeirarchy(element, root) {
