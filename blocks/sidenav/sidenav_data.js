@@ -1,1 +1,1 @@
-export default [{"displayName":"Media-Topic","url":"contents/media-topic"},{"displayName":"Image-content-testing-","url":"contents/image-content-testing"},{"displayName":"indirect-Topic","url":"contents/indirect-topic"}]
+export default [{"displayName":"Media-Topic","url":"contents/allmetadata/media-topic"},{"displayName":"Image-content-testing-","url":"contents/allmetadata/image-content-testing"},{"displayName":"indirect-Topic","url":"contents/allmetadata/indirect-topic"}]
