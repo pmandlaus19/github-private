@@ -1,5 +1,5 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"Media-Topic","url":"contents/media-topic"},{"displayName":"Image-content-testing-","url":"contents/image-content-testing"},{"displayName":"indirect-Topic","url":"contents/indirect-topic"}]
+const treeData = [{"displayName":"Media-Topic","url":"contents/allmetadata/media-topic"},{"displayName":"Image-content-testing-","url":"contents/allmetadata/image-content-testing"},{"displayName":"indirect-Topic","url":"contents/allmetadata/indirect-topic"}]
 const mapTitle = "Multimedia Report"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
