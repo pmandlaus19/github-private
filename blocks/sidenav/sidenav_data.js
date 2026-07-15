@@ -1,1 +1,1 @@
-export default [{"displayName":"Media-Topic","url":"contents/allmetadata/media-topic"},{"displayName":"Image-content-testing-","url":"contents/allmetadata/image-content-testing-"},{"displayName":"indirect-Topic","url":"contents/allmetadata/indirect-topic"}]
+export default [{"displayName":"Image-content-testing-","url":"contents/allmetadata/image-content-testing-"},{"displayName":"testgit_3","url":"contents/testgitlab/testgit-3"},{"displayName":"testgit_2","url":"contents/testgit/testgit-2"},{"displayName":"testgit_1","url":"contents/testgit/testgit-1"}]
