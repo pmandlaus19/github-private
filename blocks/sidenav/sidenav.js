@@ -1,5 +1,5 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"test1","url":"contents/test1"}]
+const treeData = [{"displayName":"test_2_copy","url":"contents/test-2-copy"}]
 const mapTitle = "test"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
