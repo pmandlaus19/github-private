@@ -1,1 +1,1 @@
-export default [{"displayName":"test_2_copy","url":"contents/test-2-copy"}]
+export default [{"displayName":"test_2","url":"contents/test-2"}]
