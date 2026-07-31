@@ -1,5 +1,5 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"topic_097","url":"contents/large-fileset/topic-097"},{"displayName":"topic_054","url":"contents/large-fileset/topic-054"},{"displayName":"topic_003","url":"contents/large-fileset/topic-003"},{"displayName":"topic_089","url":"contents/large-fileset/topic-089"},{"displayName":"topic_093","url":"contents/large-fileset/topic-093"}]
+const treeData = [{"displayName":"topic_054","url":"contents/large-fileset/topic-054"},{"displayName":"topic_003","url":"contents/large-fileset/topic-003"},{"displayName":"testtopicsvg","url":"contents/test2/testtopicsvg"},{"displayName":"topic_089","url":"contents/large-fileset/topic-089"},{"displayName":"topic_093","url":"contents/large-fileset/topic-093"}]
 const mapTitle = "testMapRepublish"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
